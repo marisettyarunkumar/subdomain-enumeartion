@@ -1,4 +1,4 @@
-# subdomain-enumeartion
+# subdomain-enumeration
 1. What is Subdomain Enumeration
 
 Subdomain enumeration is the process of discovering valid subdomains belonging to a target domain (for example: portswigger.com → blog.portswigger.com, academy.portswigger.com).
